@@ -1,5 +1,5 @@
 # Web-Submission-Repo
-Repository to submit the code for Web Development Project
+Repository to submit the code for Web Development Project and host it on online servers
 
 ## Steps to Submit
 1. Fork this Repo.
