@@ -8,3 +8,5 @@ Repository to submit the code for Web Development Project and host it on online 
 4. Put you Code, Readme, Demo Video in that Folder.
 5. Push Changes to your Repo.
 6. Make a PR to this Repo.
+
+//Note Only HTML and CSS is supported php files cannot function on github
